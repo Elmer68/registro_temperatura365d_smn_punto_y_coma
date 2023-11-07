@@ -1,0 +1,2 @@
+# registro_temperatura365d_smn_punto_y_coma
+Data Temperaturas Argentina
